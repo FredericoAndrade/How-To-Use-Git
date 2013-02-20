@@ -62,3 +62,6 @@ Notes
 ======
 Challah freezes well. After cooling completely, seal your challah tightly in a freezer zipper lock bag and store for up to 1 month.
 When you’re ready to use a loaf, remove it from the bag and let it defrost at room temperature for a few hours. Once fully defrosted, wrap it in foil and just pop it, into a preheated 325 degree F oven for about 10-20 minutes, or until you can squeeze it and feel that it’s soft. Keep the challah warm until it’s time for the meal and when you slice into it, it will taste delightfully fresh-baked.
+
+
+Hello world
